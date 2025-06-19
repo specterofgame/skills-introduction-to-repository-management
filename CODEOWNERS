@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @specterofgame
+/src/backend/database.py      @specterofgame
+/src/backend/routers/auth.py  @specterofgame
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @specterofgame
